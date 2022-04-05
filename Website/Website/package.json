@@ -35,7 +35,7 @@
     "fast-csv": "2.4.1",
     "generate-schema": "2.6.0",
     "helmet": "3.15.1",
-    "moment": "2.22.2",
+    "moment": "2.29.2",
     "mongodb": "2.2.29",
     "ms-rest-azure": "2.5.9",
     "mssql": "4.2.3",
