@@ -128,7 +128,7 @@ SOFTWARE
         <dependency>
             <groupId>io.lettuce</groupId>
             <artifactId>lettuce-core</artifactId>
-            <version>5.0.4.RELEASE</version>
+            <version>6.0.8.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.azure</groupId>
