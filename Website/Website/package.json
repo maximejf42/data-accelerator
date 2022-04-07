@@ -25,7 +25,7 @@
   "dependencies": {
     "adal-node": "0.1.28",
     "applicationinsights": "1.0.6",
-    "archiver": "3.0.0",
+    "archiver": "4.0.2",
     "azure-keyvault": "3.0.4",
     "body-parser": "1.18.3",
     "csurf": "1.9.0",
@@ -51,7 +51,7 @@
     "request-promise": "4.2.2",
     "tree-kill": "1.2.1",
     "uuid": "3.3.2",
-    "winston": "2.3.1",
+    "winston": "3.3.0",
     "winston-daily-rotate-file": "1.4.6"
   },
   "devDependencies": {
